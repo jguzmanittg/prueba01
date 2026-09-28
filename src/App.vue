@@ -4,7 +4,7 @@ const estudiante = ref('si');
 </script>
 
 <template>
-  formulario de registro:
+  El formulario de registro:
   <form>
     <label for='nombre'>nombre</label>
     <input type='text' name='nombre' id='nombre'><br>
